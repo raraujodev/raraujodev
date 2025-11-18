@@ -55,5 +55,5 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/renan-ara%C3%BAjo-67a506258/)
+- 💼 **Linkedin:**[raraujodev](https://www.linkedin.com/in/renan-ara%C3%BAjo-67a506258/)
 - ✉️ **Email:** renan.araujo8@fatec.sp.gov.br ou rerparaujo@gmail.com
